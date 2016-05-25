@@ -1,0 +1,12 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\BaseClasses\bin\Debug\BaseClassesNET.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClasses.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\BaseClasses\obj\Debug\BaseClassesNET.pdb

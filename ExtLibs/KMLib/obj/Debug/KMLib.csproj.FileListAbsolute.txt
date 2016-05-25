@@ -1,0 +1,14 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Debug\KMLib.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Debug\KMLib.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Debug\Core.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\bin\Debug\Core.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\obj\Debug\KMLib.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\obj\Debug\KMLib.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\KMLib\obj\Debug\KMLib.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\KMLib\bin\Debug\KMLib.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\KMLib\bin\Debug\KMLib.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\KMLib\bin\Debug\Core.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\KMLib\bin\Debug\Core.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\KMLib\obj\Debug\KMLib.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\KMLib\obj\Debug\KMLib.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\KMLib\obj\Debug\KMLib.pdb

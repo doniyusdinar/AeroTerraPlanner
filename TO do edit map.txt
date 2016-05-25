@@ -1,0 +1,5 @@
+to do software GCS.
+1. pindahkan control gauges dsb ke bagian bawah map
+2. maps usahakan sangat besar
+3. di kiri ada panel yang bisa di hide, merupakan kumpulan control untuk cek status UAV 
+4. 

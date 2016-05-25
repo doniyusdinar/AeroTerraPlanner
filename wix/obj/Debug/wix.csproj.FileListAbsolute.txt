@@ -1,0 +1,16 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Msi\licence.rtf
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Msi\wix.exe.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Msi\wix.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Msi\wix.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.Properties.Resources.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\wix\obj\Debug\wix.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Msi\licence.rtf
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Msi\wix.exe.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Msi\wix.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Msi\wix.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\wix\obj\Debug\wix.Properties.Resources.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\wix\obj\Debug\wix.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\wix\obj\Debug\wix.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\wix\obj\Debug\wix.pdb

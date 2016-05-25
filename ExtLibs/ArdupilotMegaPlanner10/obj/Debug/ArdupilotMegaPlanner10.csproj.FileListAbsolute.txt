@@ -1,0 +1,10 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\ArdupilotMegaPlanner10.exe.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\ArdupilotMegaPlanner10.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\ArdupilotMegaPlanner10.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ArdupilotMegaPlanner10\obj\Debug\ArdupilotMegaPlanner10.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ArdupilotMegaPlanner10\obj\Debug\ArdupilotMegaPlanner10.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\ArdupilotMegaPlanner10.exe.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\ArdupilotMegaPlanner10.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\ArdupilotMegaPlanner10.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ArdupilotMegaPlanner10\obj\Debug\ArdupilotMegaPlanner10.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ArdupilotMegaPlanner10\obj\Debug\ArdupilotMegaPlanner10.pdb

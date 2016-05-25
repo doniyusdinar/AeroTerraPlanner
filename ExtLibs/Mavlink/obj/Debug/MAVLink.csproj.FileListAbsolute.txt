@@ -1,0 +1,10 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\bin\Debug\MAVLink.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\bin\Debug\MAVLink.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Debug\MAVLink.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Debug\MAVLink.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\Mavlink\obj\Debug\MAVLink.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\Mavlink\bin\Debug\MAVLink.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\Mavlink\bin\Debug\MAVLink.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\Mavlink\obj\Debug\MAVLink.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\Mavlink\obj\Debug\MAVLink.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\Mavlink\obj\Debug\MAVLink.pdb

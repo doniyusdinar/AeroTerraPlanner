@@ -1,0 +1,10 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\plugins\TrackerHome.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\plugins\TrackerHome.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHome.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHome.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\plugins\TrackerHome.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\plugins\TrackerHome.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHomeGPS.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHome.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\TrackerHome\obj\Debug\TrackerHome.pdb

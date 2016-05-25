@@ -1,0 +1,12 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\bin\Debug\SharpKml.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\bin\Debug\SharpKml.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SharpKml\bin\Debug\SharpKml.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SharpKml\bin\Debug\SharpKml.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SharpKml\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SharpKml\obj\Debug\SharpKml.pdb

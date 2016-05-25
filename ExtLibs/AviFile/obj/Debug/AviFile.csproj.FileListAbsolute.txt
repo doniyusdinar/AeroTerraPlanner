@@ -1,0 +1,8 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\AviFile\obj\Debug\AviFile.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\AviFile\bin\Debug\AviFile.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\AviFile\bin\Debug\AviFile.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\AviFile\obj\Debug\AviFile.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\AviFile\obj\Debug\AviFile.pdb

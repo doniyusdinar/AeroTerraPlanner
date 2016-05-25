@@ -1,0 +1,10 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\plugins\MissionPlanner.Stats.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\plugins\MissionPlanner.Stats.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\plugins\MissionPlanner.Stats.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MissionPlanner.Stats\obj\Debug\MissionPlanner.Stats.pdb

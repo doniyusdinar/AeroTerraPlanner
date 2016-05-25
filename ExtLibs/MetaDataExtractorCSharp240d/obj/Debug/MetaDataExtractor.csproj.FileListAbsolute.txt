@@ -1,0 +1,16 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\exif.xslt
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\sampleFile.xml
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractor.dtd
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractorNew.dtd
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\exif.xslt
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\sampleFile.xml
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractor.dtd
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetadataExtractorNew.dtd
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\bin\Debug\MetaDataExtractor.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\MetaDataExtractorCSharp240d\obj\Debug\MetaDataExtractor.pdb

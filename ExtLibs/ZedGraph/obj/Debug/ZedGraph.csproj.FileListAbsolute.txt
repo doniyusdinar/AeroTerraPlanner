@@ -1,0 +1,16 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\bin\Debug\ZedGraph.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\bin\Debug\ZedGraph.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphControl.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphLocale.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\bin\Debug\ZedGraph.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\bin\Debug\ZedGraph.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphControl.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.ZedGraph.ZedGraphLocale.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\ZedGraph\obj\Debug\ZedGraph.pdb

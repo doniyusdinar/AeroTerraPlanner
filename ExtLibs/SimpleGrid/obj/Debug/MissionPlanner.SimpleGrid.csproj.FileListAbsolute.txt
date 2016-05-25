@@ -1,0 +1,14 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\plugins\MissionPlanner.SimpleGrid.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\plugins\MissionPlanner.SimpleGrid.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.GridUI.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\plugins\MissionPlanner.SimpleGrid.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\plugins\MissionPlanner.SimpleGrid.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csprojResolveAssemblyReference.cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.GridUI.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.dll
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\ExtLibs\SimpleGrid\obj\Debug\MissionPlanner.SimpleGrid.pdb

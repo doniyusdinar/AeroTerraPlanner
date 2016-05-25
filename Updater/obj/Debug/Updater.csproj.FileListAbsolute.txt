@@ -1,0 +1,14 @@
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\Updater.exe.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\Updater.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\bin\Debug\Updater.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\Updater\obj\Debug\Updater.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\Updater.exe.config
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\Updater.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\bin\Debug\Updater.pdb
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Updater\obj\Debug\Updater.Properties.Resources.resources
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Updater\obj\Debug\Updater.csproj.GenerateResource.Cache
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Updater\obj\Debug\Updater.exe
+C:\Users\Doni Yusdinar\Documents\GitHub\MissionPlanner\AeroTerraPlanner\Updater\obj\Debug\Updater.pdb

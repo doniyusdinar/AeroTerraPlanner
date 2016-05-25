@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <comport>AUTO</comport>
+  <baudrate>115200</baudrate>
+  <APMFirmware>ArduCopter2</APMFirmware>
+  <fw_check>5/9/2016</fw_check>
+  <fpcoordmouse>GEO</fpcoordmouse>
+  <CMB_altmode>Relative</CMB_altmode>
+  <Tracker_TXT_tiltaccel>5</Tracker_TXT_tiltaccel>
+  <guid>56981258-23b4-48da-a5cc-7418b9d41210</guid>
+  <Tracker_CMB_serialport />
+  <FlightSplitter>358</FlightSplitter>
+  <Tracker_TXT_tiltspeed>100</Tracker_TXT_tiltspeed>
+  <advancedview>True</advancedview>
+  <NUM_tracklength>200</NUM_tracklength>
+  <TXT_WPRad>30</TXT_WPRad>
+  <MainMaximised>Maximized</MainMaximised>
+  <Tracker_CHK_revtilt>False</Tracker_CHK_revtilt>
+  <plane_guid>58dbba94-1071-4a8d-a1d7-892a811c6e1b</plane_guid>
+  <menu_autohide>false</menu_autohide>
+  <TXT_loiterrad>45</TXT_loiterrad>
+  <kindexdate>5/9/2016</kindexdate>
+  <TXT_homelng />
+  <copter_guid>b450bc05-94c7-408f-9346-4abf53d83804</copter_guid>
+  <Tracker_TXT_panaccel>5</Tracker_TXT_panaccel>
+  <kindex>6</kindex>
+  <Tracker_TXT_panspeed>100</Tracker_TXT_panspeed>
+  <MainHeight>768</MainHeight>
+  <Tracker_TRK_pantrim>0</Tracker_TRK_pantrim>
+  <Tracker_CMB_interface>Maestro</Tracker_CMB_interface>
+  <Tracker_CMB_baudrate />
+  <Tracker_TXT_centerpan>1500</Tracker_TXT_centerpan>
+  <Tracker_TXT_centertilt>1500</Tracker_TXT_centertilt>
+  <Tracker_TXT_pwmrangetilt>1000</Tracker_TXT_pwmrangetilt>
+  <fpminaltwarning>0</fpminaltwarning>
+  <Tracker_CHK_revpan>False</Tracker_CHK_revpan>
+  <update_check>5/9/2016</update_check>
+  <almanac_date>5/9/2016</almanac_date>
+  <MainLocX>0</MainLocX>
+  <TXT_DefaultAlt>100</TXT_DefaultAlt>
+  <Tracker_TXT_panrange>360</Tracker_TXT_panrange>
+  <MainWidth>1366</MainWidth>
+  <Tracker_TXT_tiltrange>90</Tracker_TXT_tiltrange>
+  <TXT_homelat />
+  <MainLocY>0</MainLocY>
+  <rover_guid>aaf9c6ac-5a27-4182-9697-0157a2a753d3</rover_guid>
+  <TXT_homealt />
+  <Tuning_Graph_Selected>roll|pitch|nav_roll|nav_pitch|</Tuning_Graph_Selected>
+  <Tracker_TRK_tilttrim>0</Tracker_TRK_tilttrim>
+  <Tracker_TXT_pwmrangepan>1000</Tracker_TXT_pwmrangepan>
+</Config>
